@@ -27,7 +27,7 @@ Install the dependencies:
 ```
 or
 ```bash
-> pm2 start run.js
+> pm2 start main.js
 > pm2 monit
 ```
 
